@@ -4,8 +4,8 @@
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main(int argc, char *argv[]) {
-	int x = 0;
-	int a, b, c;
+	int x = 0; f``asdfasdffsdasffsda````````````````````````````2fasdj
+	fdskjlajfdasklfjdsklafasdlkjkdjkfaskjint a, b, c;
 
 	printf("输入一个三位数: \n");
 //	scanf("%d", &x);
